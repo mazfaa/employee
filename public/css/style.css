@@ -1,0 +1,11 @@
+:root {
+  --bs-body-font-family: 'Helvetica Neue', sans-serif;
+}
+
+.table {
+  width: 100% !important;
+}
+
+.sorting::before {
+  bottom: 22.5px !important;
+}
